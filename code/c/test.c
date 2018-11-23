@@ -1,7 +1,14 @@
-#include<stdio.h>
 
+#include<stdio.h>
 int main()
 {
-	printf("hello world\n");
-	return 0;
+char arr[] = "abcdef";
+	printf("%d\n", sizeof(arr));
+	printf("%d\n", sizeof(arr+0));
+	printf("%d\n", sizeof(*arr));
+	printf("%d\n", sizeof(arr[1]));
+	printf("%d\n", sizeof(&arr));
+	printf("%d\n", sizeof(&arr+1));
+	printf("%d\n", sizeof(&arr[0]+1));
+return 0;
 }
