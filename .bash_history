@@ -219,3 +219,41 @@ date
 pwd
 cd ..
 ls
+cd code
+ls
+cd c
+ls
+vim test.c
+gcc test.c
+ls
+./test.c
+cd ..
+ls
+cd c
+ls
+vim test.c
+gcc test.c
+ls
+./ a.out
+./a.out
+cd ..cls
+cd..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+git add -A
+git add .test.c
+ls
+cd A_supi
+ls
+cd ..
+ls
+git add .
+cd A_supi
+ls
+git add .
+git commit -m"second test"
+git push
