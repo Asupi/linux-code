@@ -257,3 +257,79 @@ ls
 git add .
 git commit -m"second test"
 git push
+ls
+cd code
+ls
+cd c
+ls
+vim test.c
+rm -f test.c
+ls
+vim test.c
+gcc test.c
+./test
+./test.c
+ls
+./a.out
+git add .
+git commit -m"test code"
+git push
+ls
+rm -f test.c
+ls
+mkdir contact
+ls
+cd contact
+ls
+ll
+touch contact.c
+ls
+contact .h
+contact.h
+touch contact.h
+ls
+touch main.c
+ls
+vim contact.c
+rm -f contact.c
+ls
+touch contact.c
+vim main.c
+vim contact.c
+rm -f contact.c
+vim contact.c
+rm -f contact.c
+vim contact.c
+vim contact.h
+ls
+cd ..
+ls
+gcc contact
+cd
+ls
+cd code
+pwd
+cd code
+ls
+cd c
+ls
+cd contact
+ls
+gcc contact.c
+vim contact.c
+gcc contact.c
+vim contact.c
+gcc contact.h contact.c main.c
+vim contact.c
+ls
+rm -f contact.h.gch
+ls
+gcc main.c
+ls
+gcc main.c contact.h contact.c
+ls
+rm -f contact.h.gch 
+ls
+vim Makefile
+make
+ls

@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -21,17 +22,40 @@
 # Registers:
 
 # File marks:
-'0  14  0  ~/code/c/test.c
-'1  2  0  ~/code/c/test.c
-'2  1  0  ~/code/c/test.c
-'3  1  7  ~/test.txt
-'4  6  0  ~/code/c/hxq.c
-'5  6  9  ~/code/c/hello.c
+'0  5  1  ~/code/c/contact/contact.h
+'1  2  0  ~/code/c/contact/main.c
+'2  47  0  ~/code/c/contact/contact.h
+'3  1  0  ~/code/c/contact/contact.c
+'4  2  0  ~/code/c/contact/Makefile
+'5  5  0  ~/code/c/contact/Makefile
+'6  173  0  ~/code/c/contact/contact.c
+'7  49  0  ~/code/c/contact/contact.h
+'8  186  0  ~/code/c/contact/contact.c
+'9  377  163  ~/code/c/contact/contact.c
 
 # Jumplist (newest first):
--'  14  0  ~/code/c/test.c
--'  2  0  ~/code/c/test.c
+-'  5  1  ~/code/c/contact/contact.h
+-'  47  0  ~/code/c/contact/contact.h
+-'  2  0  ~/code/c/contact/main.c
+-'  1  0  ~/code/c/contact/main.c
+-'  38  1  ~/code/c/contact/main.c
+-'  49  0  ~/code/c/contact/contact.h
+-'  1  0  ~/code/c/contact/contact.c
+-'  124  0  ~/code/c/contact/contact.c
+-'  162  0  ~/code/c/contact/contact.c
+-'  173  0  ~/code/c/contact/contact.c
+-'  2  0  ~/code/c/contact/Makefile
+-'  5  1  ~/code/c/contact/Makefile
+-'  1  0  ~/code/c/contact/Makefile
+-'  1  0  ~/code/c/contact/contact.h
+-'  186  0  ~/code/c/contact/contact.c
+-'  377  163  ~/code/c/contact/contact.c
+-'  82  0  ~/code/c/contact/main.c
+-'  702  47  ~/code/c/contact/contact.c
+-'  6  0  ~/code/c/test.c
 -'  1  0  ~/code/c/test.c
+-'  21  0  ~/code/c/test.c
+-'  9  0  ~/code/c/test.c
 -'  1  7  ~/test.txt
 -'  6  0  ~/code/c/hxq.c
 -'  1  0  ~/code/c/hxq.c
@@ -106,36 +130,78 @@
 -'  6  9  ~/code/c/hello.c
 -'  1  0  ~/code/c/hello.c
 -'  6  0  ~/code/c/hxq.c
--'  1  0  ~/code/c/hxq.c
--'  6  9  ~/code/c/hello.c
--'  1  0  ~/code/c/hello.c
--'  6  9  ~/code/c/hello.c
--'  1  0  ~/code/c/hello.c
--'  6  0  ~/code/c/hxq.c
--'  1  0  ~/code/c/hxq.c
--'  6  9  ~/code/c/hello.c
--'  1  0  ~/code/c/hello.c
--'  6  9  ~/code/c/hello.c
--'  1  0  ~/code/c/hello.c
--'  6  0  ~/code/c/hxq.c
--'  1  0  ~/code/c/hxq.c
--'  6  9  ~/code/c/hello.c
--'  1  0  ~/code/c/hello.c
--'  6  9  ~/code/c/hello.c
--'  1  0  ~/code/c/hello.c
--'  6  0  ~/code/c/hxq.c
--'  1  0  ~/code/c/hxq.c
--'  6  9  ~/code/c/hello.c
+-'  2  0  ~/code/c/contact/main.c
+-'  1  0  ~/code/c/contact/main.c
 
 # History of marks within files (newest to oldest):
 
-> ~/code/c/test.c
-	"	14	0
-	^	14	0
-	.	14	0
-	+	2	3
+> ~/code/c/contact/contact.h
+	"	5	1
+	^	5	2
+	.	5	1
+	+	48	6
 	+	1	0
-	+	14	0
+	+	5	1
+
+> ~/code/c/contact/main.c
+	"	2	0
+	^	2	1
+	.	2	0
+	+	82	0
+	+	81	7
+	+	1	0
+	+	2	0
+	+	81	8
+	+	2	0
+
+> ~/code/c/contact/contact.c
+	"	1	0
+	^	1	1
+	.	1	0
+	+	702	3152
+	+	703	0
+	+	702	2789
+	+	702	48
+	+	548	161
+	+	377	164
+	+	206	15
+	+	181	34
+	+	180	1
+	+	181	0
+	+	181	34
+	+	182	0
+	+	183	0
+	+	184	0
+	+	185	0
+	+	185	39
+	+	185	39
+	+	172	1
+	+	1	0
+	+	2	0
+	+	1	0
+
+> ~/code/c/contact/Makefile
+	"	2	0
+	^	2	1
+	.	2	0
+	+	5	3
+	+	2	3
+	+	5	0
+	+	2	0
+
+> ~/code/c/test.c
+	"	6	0
+	^	6	1
+	.	6	0
+	+	9	3
+	+	1	0
+	+	21	0
+	+	3	22
+	+	3	23
+	+	1	11
+	+	3	0
+	+	7	0
+	+	6	0
 
 > ~/test.txt
 	"	1	7
