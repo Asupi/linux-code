@@ -333,3 +333,217 @@ ls
 vim Makefile
 make
 ls
+cd code
+ls
+cd c
+ls
+cd contact/
+ls
+vim Makefile 
+make
+ls
+vim Makefile 
+make
+ls
+vim contact.c +162
+vim contact.h
+vim main.c 
+ls
+gcc main.c
+make
+vim contact.h +5
+gcc main.c
+make
+ls
+./main
+ls
+gcc main.c contact.h contact.c
+ls
+./a.out
+ls
+make clean
+ls
+rm -f a.out
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+git add -A
+git commit -m "通讯录"
+git push
+ls
+cd code
+ls
+pwd
+ll
+cd 
+cd c
+ls
+cd code
+ls
+cd c
+ls
+cd contact
+ls
+pwd
+ll
+clean
+clear
+ls
+ ls
+ls
+cd code
+ls
+cd c
+ls
+cd contact
+ls
+gcc contact.c contact.h main.c
+ls
+./ a.out
+./a.out
+ls
+cd ..
+ls
+cd ..
+l
+ls
+ mkdir recursion
+ls
+ cd recursion
+ls
+vim digui
+gcc digui
+vim digui
+gcc digui
+vim digui
+gcc digui
+mv digui digui.c
+ls
+gcc digui.c
+ls
+./a.out
+cd ..
+ls
+cd ..
+ls
+git add code
+git commit -m "recuision"
+git push
+ls
+cd
+s
+ls
+cd code
+ls
+cd c
+ls
+cd ..
+ls
+cd recursion
+ls
+cd digui.c 
+cd c
+ls
+cd ..
+ls
+cd c
+ls
+cd ..
+ls
+cd ..
+ls
+ cd tmp
+ls
+cd ..
+ls
+cd bin
+ls
+cd..
+cd ..
+ls
+cd home
+ls
+cd admin
+cd A_supi
+ls
+cd code
+ls
+cd c
+ls
+cd ..
+ls
+cd recursion
+ls
+vim digui.c 
+version
+git version
+centos version
+CentOS version
+linux version
+su root
+ls
+cd code
+ls
+cd c
+exit
+ls
+vim test.c 
+cd ..
+ls
+curl -sLf https://gitee.com/HGtz2222/VimForCpp/raw/master/install.sh -o ./install.sh && bash ./install.sh
+source ~/.bashrc
+vim ~/.vimrc
+ls
+rm -f install.sh 
+ls
+cd test
+ls
+vim test.c 
+exit
+ls
+ ls
+ls
+cd code
+ls
+cd c
+ls
+vim contact
+cd contact
+ls
+./a.out
+ls
+./a.out
+ls
+ ls
+cd contact.c
+vim contact.c
+cd ..
+ls
+mlkdir test
+mkdir test
+ls
+cd test
+ls
+touch test.c
+vim test.c
+ls
+vim test.c
+ls
+sudo vim test.c
+su root
+Sp171213
+su root
+exit
+ls
+cd code
+ls
+cd c
+ls
+cd test
+ls
+vim test.C
+exit

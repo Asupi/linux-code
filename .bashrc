@@ -9,3 +9,5 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+alias vim='/home/A_supi/.VimForCpp/nvim'
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.VimForCpp/vim/bundle/YCM.so/el7.x86_64

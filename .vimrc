@@ -1,0 +1,1 @@
+/home/A_supi/.VimForCpp/vim/init.vim
