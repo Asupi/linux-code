@@ -547,3 +547,126 @@ cd test
 ls
 vim test.C
 exit
+ls
+cd code
+ls
+cd c
+ls
+mkdir free.c
+ls
+rm -r free.c
+ls
+cd test
+ls
+rm -f test.C
+ls
+vim test.c
+gcc test.c
+vim test.c
+ls
+./a.out
+ls
+vim test.c
+ls
+vim a.out
+vim test.c
+gcc test.c
+ls
+./a.out
+ls
+rm -f a.out
+ls
+gcc test.c
+ls
+./a.out
+ll
+vim test.c
+gcc test.c
+ls
+./a.out
+ls
+vim test.c
+cd ..
+ls
+rm -r test
+ls
+mkdir
+mkdir test
+ls
+cd test
+ls
+touch test.c
+ls
+vim test.c
+gcc test.c
+ls
+./ a.out
+./a.out
+touch calloc.c
+vim test.c
+cat test.c
+mv test.c malloc.c
+ls
+vim calloc.h
+ls
+rm -f calloc.c
+ls
+mv calloc.h calloc.c
+ls
+gcc calloc.c 
+ls
+./a.out
+ls
+gcc calloc.c -o calloc
+ls
+./calloc
+ls
+vim cat calloc
+ls
+cat calloc.c
+vim realloc.c
+gcc realloc.c -o realloc
+vim realloc.c
+gcc realloc.c -o realloc
+vim realloc.c 15
+vim realloc.c 
+gcc realloc.c -o realloc
+vim realloc.c 
+gcc realloc.c -o realloc
+vim realloc.c 
+gcc realloc.c -o realloc
+vim realloc.c 
+gcc realloc.c -o realloc
+ls
+./realloc
+ls
+./realloc.c
+cd ..
+ls
+cd test
+ls
+cat realloc.c
+cat malloc.c
+cat calloc.c
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+git add -A
+git commit -m "动态内存开辟"
+git push
+ls
+clear
+exit
+ls
+cd code
+ls
+cd c
+ls
+cd test
+ls
+cd ..
+ls
