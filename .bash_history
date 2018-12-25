@@ -670,3 +670,105 @@ cd test
 ls
 cd ..
 ls
+ifconfig
+ls
+cd code
+ll
+ls
+cd c
+ls
+ll
+ls
+zhangmin
+\ls
+ls
+ps\
+ls
+cd ..
+ld
+ls
+ll
+lls'
+ll
+fdjsokspfs
+d
+fcsdfas
+LS
+ls
+cd c
+ls
+mkdir hello
+ls
+cd hellp
+cd hello
+ls
+vim strncpy.c
+gcc strncpy.c
+vim strncpy.c
+gcc strncpy.c
+vim strncpy.c
+gcc strncpy.c
+ls
+./a.out
+vim strncpy.c
+ls
+gcc strncpy.c
+ls
+./a.out 
+vim strncpy.c
+ls
+./a.out 
+vim strncpy.c
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+git add -A
+git commit -m "模拟实现strncpy"
+git push
+cd code
+ls
+cd c
+ls
+cd hello
+ls
+vim strcat.c
+cat strcat
+cat strcat.c
+vim strcat.c
+cat strcat.c
+char *my_strcat(char *dest, const char *src)
+{ char *strdest = dest; assert(dest);
+assert(src);
+while (*dest); { dest++; }; while (*dest++ = *src++); { ;
+}
+return strdest;
+}
+int main()
+{ const char arr1[20] = "1234xyz"; char arr2[]="world"; char* ret = my_strcat(arr1, arr2);
+clear
+cat strcat.c
+vim strcat.c
+exit
+ls
+cd code
+ls
+cd c
+ls
+cd hello
+ls
+cat strcat.c
+ls
+cat strncpy.c
+exit
+ls
+cd code
+ls
+cd c
+ls
+cd cd contact
+lsexit
+ls
+exit
